@@ -1,6 +1,6 @@
 # Student Depression Analysis: Predicting Mental Health Risks with Data
 
-![Mental Health Insights](images/depression_vs_pressure.png) <!-- Header: Key visualization, e.g., suicidal thoughts vs. depression correlation -->
+![Mental Health Insights](images/thoughts-output.png) <!-- Header: Key visualization, e.g., suicidal thoughts vs. depression correlation -->
 
 ## 🎯 Project Overview
 In this solo data analysis project, I dove into a 27,901-row dataset on student mental health to uncover patterns driving depression. From raw data wrangling to predictive modeling, I built an end-to-end pipeline that achieved **79% accuracy** in classifying depression cases—highlighting critical factors like financial stress and sleep deprivation.
@@ -63,6 +63,7 @@ Let's collaborate on data for good—star the repo, open an issue, or connect on
 ---
 
 *Powered by data, driven by empathy – Solo project by MD Touhidul Islam Kanon (2025)*
+
 
 
 
