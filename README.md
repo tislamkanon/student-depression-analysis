@@ -13,8 +13,8 @@ In this solo data analysis project, I dove into a 27,901-row dataset on student 
 - **Model Performance**: Logistic Regression: 79% accuracy, 80% precision/84% recall for depression; outperformed Random Forest (76%).
 - **Insights Uncovered**: High financial stress triples risk; <5 hours sleep links to 40% higher depression rates.
 
-![Cluster Distribution](images/cluster_distribution.png) <!-- Overview: Pie chart breaking down depression distribution -->
-![Correlation Heatmap](images/correlation_heatmap.png) <!-- Overview: Feature correlation heatmap -->
+![Cluster Distribution](images/heatmap.png) <!-- Overview: Pie chart breaking down depression distribution -->
+![Correlation Heatmap](images/linear.png) <!-- Overview: Feature correlation heatmap -->
 
 **Impact Potential**: This work could inform university policies or apps for early detection—saving lives through data.
 
@@ -63,5 +63,6 @@ Let's collaborate on data for good—star the repo, open an issue, or connect on
 ---
 
 *Powered by data, driven by empathy – Solo project by MD Touhidul Islam Kanon (2025)*
+
 
 
