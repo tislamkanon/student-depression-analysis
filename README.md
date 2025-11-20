@@ -43,7 +43,8 @@ Get up and running in minutes—replicate my analysis or extend it!
 | **Logistic Regression**| 79%     | 76%/80%                     | 71%/84%                   |
 | Random Forest          | 76%     | 74%/78%                     | 70%/82%                   |
 
-![Box Plots by Depression](images/output2.png) <!-- Results: Box plots for features by depression class -->
+![Box Plots by Depression](images/Logistic%20regression.png) <!-- Results: Box plots for features by depression class -->
+[Box Plots by Depression](images/Random%20forest.png) <!-- Results: Box plots for features by depression class -->
 
 **Top Insights**:
 - **Risk Drivers**: Financial stress (r=0.62 with depression); suicidal thoughts (80% overlap).
@@ -60,4 +61,5 @@ MIT License – Fork, build on it, make an impact (see [LICENSE](LICENSE)).
 Let's collaborate on data for good—star the repo, open an issue, or connect on [LinkedIn](https://linkedin.com/in/tislamkanon). #DataAnalysis #MentalHealth #MachineLearning #PredictiveModeling
 
 ---
+
 *Powered by data, driven by empathy – Solo project by MD Touhidul Islam Kanon (2025)*
