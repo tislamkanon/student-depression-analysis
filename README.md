@@ -44,7 +44,7 @@ Get up and running in minutes—replicate my analysis or extend it!
 | Random Forest          | 76%     | 74%/78%                     | 70%/82%                   |
 
 ![Box Plots by Depression](images/Logistic%20regression.png) <!-- Results: Box plots for features by depression class -->
-[Box Plots by Depression](images/random-forest.png) <!-- Results:  -->
+![Box Plots by Depression](images/random-forest.png) <!-- Results:  -->
 
 **Top Insights**:
 - **Risk Drivers**: Financial stress (r=0.62 with depression); suicidal thoughts (80% overlap).
@@ -63,4 +63,5 @@ Let's collaborate on data for good—star the repo, open an issue, or connect on
 ---
 
 *Powered by data, driven by empathy – Solo project by MD Touhidul Islam Kanon (2025)*
+
 
